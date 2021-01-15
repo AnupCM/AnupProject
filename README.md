@@ -1,2 +1,2 @@
 # PythonDocsForReaders
-Brand New First Project Website Design
+Basic Documentation For Python Coders
